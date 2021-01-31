@@ -1,5 +1,5 @@
 CREATE TABELBARU (
   ID NOT NULL int,
-  Nama NOT NULL NVarchar(32),
-  Email nVarchar(32)
+  Nama NOT NULL Varchar(32),
+  Email Varchar(32)
   );
